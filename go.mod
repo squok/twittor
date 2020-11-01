@@ -1,6 +1,6 @@
 module github.com/squok/twittor
 
-go 1.13
+go 1.12.17
 
 require(
 )
